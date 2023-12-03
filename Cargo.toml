@@ -1,0 +1,25 @@
+[package]
+name = "aoc2023"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[[bin]]
+name = "day1a"
+
+[[bin]]
+name = "day1b"
+
+[[bin]]
+name = "day2a"
+
+[[bin]]
+name = "day2b"
+
+[[bin]]
+name = "day3a"
+
+
+
+
+[dependencies]
